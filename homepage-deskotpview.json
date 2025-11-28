@@ -1,0 +1,1402 @@
+[
+  {
+    "tag": "p",
+    "text": "Home",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "25.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "Works",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "25.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "About",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "25.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "Pricing",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "25.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "Blog",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "25.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "Contact Us",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "25.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "Single Subscription Unlimited Design",
+    "fontSize": "20px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(51, 51, 51)",
+    "lineHeight": "32px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "Get Started Now",
+    "fontSize": "16px",
+    "fontWeight": "700",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "22px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "ABOUT US",
+    "fontSize": "20px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "32px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "Read More",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "25.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "RECENT WORK",
+    "fontSize": "20px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "32px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "Mobile App",
+    "fontSize": "20px",
+    "fontWeight": "400",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "32px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "2020",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "25.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "Web Design",
+    "fontSize": "20px",
+    "fontWeight": "400",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "32px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "2023",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "25.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "Branding",
+    "fontSize": "20px",
+    "fontWeight": "400",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "32px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "2024",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "25.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "Website Design",
+    "fontSize": "20px",
+    "fontWeight": "400",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "32px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "2025",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "25.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "Load More",
+    "fontSize": "14px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "22.4px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "OUR SERVICES",
+    "fontSize": "20px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "32px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "I deliver innovative solutions through web design, UI/UX design, branding, and front-end development, combining creativity with functionality to elevate your brand.",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "25.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "I specialize in building robust, scalable websites using modern technologies, ensuring fast performance, seamless functionality, and responsive design across all devices.",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "25.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "I create intuitive, high-performing mobile and web applications, focusing on user experience, efficient coding, and cross-platform compatibility.",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "25.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "I offer comprehensive digital marketing solutions, including SEO, social media, content strategy, and online advertising, to help businesses.",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "25.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "CLIENTS FEEDBACK",
+    "fontSize": "20px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "32px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "Munib Naveed",
+    "fontSize": "20px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "32px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "CEO & Founder of Framer",
+    "fontSize": "14px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "22.4px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "Alex Wales",
+    "fontSize": "20px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "32px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "Senior Designer",
+    "fontSize": "14px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "22.4px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "OUR PROCESS",
+    "fontSize": "20px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "32px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "PRICING",
+    "fontSize": "20px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "32px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "Unlock unlimited design services with a single, all-inclusive subscription. Get access to top-tier design expertise, unlimited revisions, and a quick turnaround time—all for a flat monthly fee.",
+    "fontSize": "20px",
+    "fontWeight": "400",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(51, 51, 51)",
+    "lineHeight": "32px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "Unlimited Request",
+    "fontSize": "20px",
+    "fontWeight": "400",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(51, 51, 51)",
+    "lineHeight": "32px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "Unlimited Revision",
+    "fontSize": "20px",
+    "fontWeight": "400",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(51, 51, 51)",
+    "lineHeight": "32px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "Unlimited Team Members",
+    "fontSize": "20px",
+    "fontWeight": "400",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(51, 51, 51)",
+    "lineHeight": "32px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "Unlimited Storage",
+    "fontSize": "20px",
+    "fontWeight": "400",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(51, 51, 51)",
+    "lineHeight": "32px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "Pose or cancel anytime",
+    "fontSize": "20px",
+    "fontWeight": "400",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(51, 51, 51)",
+    "lineHeight": "32px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "COMMON QUESTIONS",
+    "fontSize": "20px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "32px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "What is included in the subscription?",
+    "fontSize": "20px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(51, 51, 51)",
+    "lineHeight": "32px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "How long does it take to complete a design?",
+    "fontSize": "20px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(51, 51, 51)",
+    "lineHeight": "32px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "Is there a limit to revisions?",
+    "fontSize": "20px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(51, 51, 51)",
+    "lineHeight": "32px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "Can I cancel my subscription anytime?",
+    "fontSize": "20px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(51, 51, 51)",
+    "lineHeight": "32px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "What if I need a custom design outside the plan?",
+    "fontSize": "20px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(51, 51, 51)",
+    "lineHeight": "32px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "Let’s Talk",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "25.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "Job Application",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "25.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "apply@pixend.com",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "25.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "Office Address",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "25.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "2464 Royal Ln. Mesa, New Jersey 45463",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "25.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "Phone Number",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "25.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "342-000-0000",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "25.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "Twitter",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "25.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "LinkedIn",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "25.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "Instagram",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "25.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "Facebook",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "25.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "© 2024 Inuvik Hub All Right Reserved",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "25.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "p",
+    "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "fontFamily": "sans-serif",
+    "color": "rgb(0, 0, 238)",
+    "lineHeight": "normal",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "span",
+    "text": "Ideas",
+    "fontSize": "80px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "96px",
+    "letterSpacing": "-4px"
+  },
+  {
+    "tag": "span",
+    "text": "I",
+    "fontSize": "80px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "96px",
+    "letterSpacing": "-4px"
+  },
+  {
+    "tag": "span",
+    "text": "d",
+    "fontSize": "80px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "96px",
+    "letterSpacing": "-4px"
+  },
+  {
+    "tag": "span",
+    "text": "e",
+    "fontSize": "80px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "96px",
+    "letterSpacing": "-4px"
+  },
+  {
+    "tag": "span",
+    "text": "a",
+    "fontSize": "80px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "96px",
+    "letterSpacing": "-4px"
+  },
+  {
+    "tag": "span",
+    "text": "s",
+    "fontSize": "80px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "96px",
+    "letterSpacing": "-4px"
+  },
+  {
+    "tag": "span",
+    "text": "Born,",
+    "fontSize": "80px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "96px",
+    "letterSpacing": "-4px"
+  },
+  {
+    "tag": "span",
+    "text": "B",
+    "fontSize": "80px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "96px",
+    "letterSpacing": "-4px"
+  },
+  {
+    "tag": "span",
+    "text": "o",
+    "fontSize": "80px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "96px",
+    "letterSpacing": "-4px"
+  },
+  {
+    "tag": "span",
+    "text": "r",
+    "fontSize": "80px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "96px",
+    "letterSpacing": "-4px"
+  },
+  {
+    "tag": "span",
+    "text": "n",
+    "fontSize": "80px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "96px",
+    "letterSpacing": "-4px"
+  },
+  {
+    "tag": "span",
+    "text": ",",
+    "fontSize": "80px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "96px",
+    "letterSpacing": "-4px"
+  },
+  {
+    "tag": "span",
+    "text": "Digitally",
+    "fontSize": "80px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "96px",
+    "letterSpacing": "-4px"
+  },
+  {
+    "tag": "span",
+    "text": "D",
+    "fontSize": "80px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "96px",
+    "letterSpacing": "-4px"
+  },
+  {
+    "tag": "span",
+    "text": "i",
+    "fontSize": "80px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "96px",
+    "letterSpacing": "-4px"
+  },
+  {
+    "tag": "span",
+    "text": "g",
+    "fontSize": "80px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "96px",
+    "letterSpacing": "-4px"
+  },
+  {
+    "tag": "span",
+    "text": "t",
+    "fontSize": "80px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "96px",
+    "letterSpacing": "-4px"
+  },
+  {
+    "tag": "span",
+    "text": "l",
+    "fontSize": "80px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "96px",
+    "letterSpacing": "-4px"
+  },
+  {
+    "tag": "span",
+    "text": "y",
+    "fontSize": "80px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "96px",
+    "letterSpacing": "-4px"
+  },
+  {
+    "tag": "span",
+    "text": "Brought",
+    "fontSize": "80px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "96px",
+    "letterSpacing": "-4px"
+  },
+  {
+    "tag": "span",
+    "text": "u",
+    "fontSize": "80px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "96px",
+    "letterSpacing": "-4px"
+  },
+  {
+    "tag": "span",
+    "text": "h",
+    "fontSize": "80px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "96px",
+    "letterSpacing": "-4px"
+  },
+  {
+    "tag": "span",
+    "text": "Alive",
+    "fontSize": "80px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "96px",
+    "letterSpacing": "-4px"
+  },
+  {
+    "tag": "span",
+    "text": "A",
+    "fontSize": "80px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "96px",
+    "letterSpacing": "-4px"
+  },
+  {
+    "tag": "span",
+    "text": "v",
+    "fontSize": "80px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "96px",
+    "letterSpacing": "-4px"
+  },
+  {
+    "tag": "span",
+    "text": "$4,990",
+    "fontSize": "40px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "48px",
+    "letterSpacing": "-2px"
+  },
+  {
+    "tag": "span",
+    "text": "/Month",
+    "fontSize": "20px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "24px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "a",
+    "text": "Home",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "fontFamily": "sans-serif",
+    "color": "rgb(0, 0, 238)",
+    "lineHeight": "normal",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "a",
+    "text": "Works",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "fontFamily": "sans-serif",
+    "color": "rgb(0, 0, 238)",
+    "lineHeight": "normal",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "a",
+    "text": "About",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "fontFamily": "sans-serif",
+    "color": "rgb(0, 0, 238)",
+    "lineHeight": "normal",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "a",
+    "text": "Pricing",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "fontFamily": "sans-serif",
+    "color": "rgb(0, 0, 238)",
+    "lineHeight": "normal",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "a",
+    "text": "Blog",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "fontFamily": "sans-serif",
+    "color": "rgb(0, 0, 238)",
+    "lineHeight": "normal",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "a",
+    "text": "Contact Us",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "fontFamily": "sans-serif",
+    "color": "rgb(0, 0, 238)",
+    "lineHeight": "normal",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "a",
+    "text": "Get Started Now",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "fontFamily": "sans-serif",
+    "color": "rgb(0, 0, 238)",
+    "lineHeight": "normal",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "a",
+    "text": "Read More",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "fontFamily": "sans-serif",
+    "color": "rgb(0, 0, 238)",
+    "lineHeight": "normal",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "a",
+    "text": "Exploid Game\n\nMobile App\n\n2020",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "fontFamily": "sans-serif",
+    "color": "rgb(0, 0, 238)",
+    "lineHeight": "normal",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "a",
+    "text": "Taskify App\n\nWeb Design\n\n2023",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "fontFamily": "sans-serif",
+    "color": "rgb(0, 0, 238)",
+    "lineHeight": "normal",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "a",
+    "text": "Fashion Brand\n\nBranding\n\n2024",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "fontFamily": "sans-serif",
+    "color": "rgb(0, 0, 238)",
+    "lineHeight": "normal",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "a",
+    "text": "Leardo Ecom\n\nWebsite Design\n\n2025",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "fontFamily": "sans-serif",
+    "color": "rgb(0, 0, 238)",
+    "lineHeight": "normal",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "a",
+    "text": "hello@pixend.com",
+    "fontSize": "40px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "48px",
+    "letterSpacing": "-1px"
+  },
+  {
+    "tag": "a",
+    "text": "apply@",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "25.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "a",
+    "text": "pixend",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "25.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "a",
+    "text": ".com",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "25.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "a",
+    "text": "342-000-0000",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "25.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "a",
+    "text": "Twitter",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "fontFamily": "sans-serif",
+    "color": "rgb(0, 0, 238)",
+    "lineHeight": "normal",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "a",
+    "text": "LinkedIn",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "fontFamily": "sans-serif",
+    "color": "rgb(0, 0, 238)",
+    "lineHeight": "normal",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "a",
+    "text": "Instagram",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "fontFamily": "sans-serif",
+    "color": "rgb(0, 0, 238)",
+    "lineHeight": "normal",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "a",
+    "text": "Facebook",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "fontFamily": "sans-serif",
+    "color": "rgb(0, 0, 238)",
+    "lineHeight": "normal",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "a",
+    "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "fontFamily": "sans-serif",
+    "color": "rgb(0, 0, 238)",
+    "lineHeight": "normal",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "h1",
+    "text": "Ideas Born, Digitally Brought Alive",
+    "fontSize": "80px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "96px",
+    "letterSpacing": "-4px"
+  },
+  {
+    "tag": "h2",
+    "text": "$4,990/Month",
+    "fontSize": "20px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "24px",
+    "letterSpacing": "-2px"
+  },
+  {
+    "tag": "h3",
+    "text": "Subscribe",
+    "fontSize": "40px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "48px",
+    "letterSpacing": "-1px"
+  },
+  {
+    "tag": "h3",
+    "text": "Request",
+    "fontSize": "40px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "48px",
+    "letterSpacing": "-1px"
+  },
+  {
+    "tag": "h3",
+    "text": "Project",
+    "fontSize": "40px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "48px",
+    "letterSpacing": "-1px"
+  },
+  {
+    "tag": "h3",
+    "text": "Monthly Pack",
+    "fontSize": "40px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "48px",
+    "letterSpacing": "-1px"
+  },
+  {
+    "tag": "h3",
+    "text": "hello@pixend.com",
+    "fontSize": "40px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "48px",
+    "letterSpacing": "-1px"
+  },
+  {
+    "tag": "h4",
+    "text": "We have put together a special combination of strategy, marketing, design, and digital expertise. design, and digital expertise.",
+    "fontSize": "32px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(51, 51, 51)",
+    "lineHeight": "44.8px",
+    "letterSpacing": "-0.8px"
+  },
+  {
+    "tag": "h4",
+    "text": "UI/UX Design",
+    "fontSize": "32px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "44.8px",
+    "letterSpacing": "-0.8px"
+  },
+  {
+    "tag": "h4",
+    "text": "Web Development",
+    "fontSize": "32px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "44.8px",
+    "letterSpacing": "-0.8px"
+  },
+  {
+    "tag": "h4",
+    "text": "App Development",
+    "fontSize": "32px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "44.8px",
+    "letterSpacing": "-0.8px"
+  },
+  {
+    "tag": "h4",
+    "text": "Digital Marketing",
+    "fontSize": "32px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "44.8px",
+    "letterSpacing": "-0.8px"
+  },
+  {
+    "tag": "h4",
+    "text": "Outstanding design services! The team's creativity and attention to detail exceeded our expectations. With their unlimited design plan.",
+    "fontSize": "32px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "44.8px",
+    "letterSpacing": "-0.8px"
+  },
+  {
+    "tag": "h4",
+    "text": "Exceptional design experience! Their innovation and precision brought our vision to life. The unlimited design plan made collaboration smooth and results even better.",
+    "fontSize": "32px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(255, 255, 255)",
+    "lineHeight": "44.8px",
+    "letterSpacing": "-0.8px"
+  },
+  {
+    "tag": "h5",
+    "text": "Exploid Game",
+    "fontSize": "24px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(51, 51, 51)",
+    "lineHeight": "33.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "h5",
+    "text": "Taskify App",
+    "fontSize": "24px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(51, 51, 51)",
+    "lineHeight": "33.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "h5",
+    "text": "Fashion Brand",
+    "fontSize": "24px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(51, 51, 51)",
+    "lineHeight": "33.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "h5",
+    "text": "Leardo Ecom",
+    "fontSize": "24px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(51, 51, 51)",
+    "lineHeight": "33.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "h5",
+    "text": "01.",
+    "fontSize": "24px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(51, 51, 51)",
+    "lineHeight": "33.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "h5",
+    "text": "02.",
+    "fontSize": "24px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(51, 51, 51)",
+    "lineHeight": "33.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "h5",
+    "text": "03.",
+    "fontSize": "24px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(51, 51, 51)",
+    "lineHeight": "33.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "h5",
+    "text": "Features",
+    "fontSize": "24px",
+    "fontWeight": "500",
+    "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
+    "color": "rgb(22, 22, 22)",
+    "lineHeight": "33.6px",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "li",
+    "text": "Outstanding design services! The team's creativity and attention to detail exceeded our expectations. With their unlimited design plan.\n\nMunib Naveed\n\nCEO & Founder of Framer",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "fontFamily": "sans-serif",
+    "color": "rgb(0, 0, 0)",
+    "lineHeight": "normal",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "li",
+    "text": "Exceptional design experience! Their innovation and precision brought our vision to life. The unlimited design plan made collaboration smooth and results even better.\n\nAlex Wales\n\nSenior Designer",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "fontFamily": "sans-serif",
+    "color": "rgb(0, 0, 0)",
+    "lineHeight": "normal",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "li",
+    "text": "Unlimited Request",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "fontFamily": "sans-serif",
+    "color": "rgb(0, 0, 0)",
+    "lineHeight": "normal",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "li",
+    "text": "Unlimited Revision",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "fontFamily": "sans-serif",
+    "color": "rgb(0, 0, 0)",
+    "lineHeight": "normal",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "li",
+    "text": "Unlimited Team Members",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "fontFamily": "sans-serif",
+    "color": "rgb(0, 0, 0)",
+    "lineHeight": "normal",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "li",
+    "text": "Unlimited Storage",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "fontFamily": "sans-serif",
+    "color": "rgb(0, 0, 0)",
+    "lineHeight": "normal",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "li",
+    "text": "Pose or cancel anytime",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "fontFamily": "sans-serif",
+    "color": "rgb(0, 0, 0)",
+    "lineHeight": "normal",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "li",
+    "text": "What is included in the subscription?",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "fontFamily": "sans-serif",
+    "color": "rgb(0, 0, 0)",
+    "lineHeight": "normal",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "li",
+    "text": "How long does it take to complete a design?",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "fontFamily": "sans-serif",
+    "color": "rgb(0, 0, 0)",
+    "lineHeight": "normal",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "li",
+    "text": "Is there a limit to revisions?",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "fontFamily": "sans-serif",
+    "color": "rgb(0, 0, 0)",
+    "lineHeight": "normal",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "li",
+    "text": "Can I cancel my subscription anytime?",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "fontFamily": "sans-serif",
+    "color": "rgb(0, 0, 0)",
+    "lineHeight": "normal",
+    "letterSpacing": "normal"
+  },
+  {
+    "tag": "li",
+    "text": "What if I need a custom design outside the plan?",
+    "fontSize": "12px",
+    "fontWeight": "400",
+    "fontFamily": "sans-serif",
+    "color": "rgb(0, 0, 0)",
+    "lineHeight": "normal",
+    "letterSpacing": "normal"
+  }
+]
