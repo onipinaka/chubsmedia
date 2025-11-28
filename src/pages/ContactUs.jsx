@@ -1,8 +1,54 @@
-import React, { useState } from 'react'
+import React, { useState, useRef } from 'react'
 import { InlineWidget } from 'react-calendly'
+import emailjs from '@emailjs/browser'
 
 function ContactUs() {
   const [activeTab, setActiveTab] = useState('call') // 'call' or 'message'
+  const [formData, setFormData] = useState({
+    name: '',
+    email: '',
+    message: ''
+  })
+  const [isSubmitting, setIsSubmitting] = useState(false)
+  const [submitStatus, setSubmitStatus] = useState(null) // 'success' or 'error'
+  const formRef = useRef()
+
+  const handleInputChange = (e) => {
+    const { name, value } = e.target
+    setFormData(prev => ({
+      ...prev,
+      [name]: value
+    }))
+  }
+
+  const handleSubmit = async (e) => {
+    e.preventDefault()
+    setIsSubmitting(true)
+    setSubmitStatus(null)
+
+    try {
+      await emailjs.sendForm(
+        import.meta.env.VITE_EMAILJS_SERVICE_ID,
+        import.meta.env.VITE_EMAILJS_TEMPLATE_ID,
+        formRef.current,
+        import.meta.env.VITE_EMAILJS_PUBLIC_KEY
+      )
+      
+      setSubmitStatus('success')
+      setFormData({ name: '', email: '', message: '' })
+      
+      // Clear success message after 5 seconds
+      setTimeout(() => setSubmitStatus(null), 5000)
+    } catch (error) {
+      console.error('EmailJS Error:', error)
+      setSubmitStatus('error')
+      
+      // Clear error message after 5 seconds
+      setTimeout(() => setSubmitStatus(null), 5000)
+    } finally {
+      setIsSubmitting(false)
+    }
+  }
 
   return (
     <div className="w-full bg-white py-12 sm:py-16 lg:py-24">
@@ -31,10 +77,10 @@ function ContactUs() {
                   Contact Me
                 </h3>
                 <a 
-                  href="mailto:istiaqahmed85@gmail.com"
+                  href="mailto:contact@chubsmedia.in"
                   className="text-blue-600 font-normal text-base hover:underline"
                 >
-                  istiaqahmed85@gmail.com
+                  contact@chubsmedia.in
                 </a>
               </div>
 
@@ -44,7 +90,7 @@ function ContactUs() {
                   Office Address
                 </h3>
                 <p className="text-[#666666] font-normal text-base">
-                  2464 Royal Ln. Mesa, New Jersey 45463
+                  105 A, OBH <br />Army Instiute of Technology, Pune 411015 <br />India 
                 </p>
               </div>
 
@@ -54,10 +100,16 @@ function ContactUs() {
                   Contact phone
                 </h3>
                 <a 
-                  href="tel:+8801842844768"
+                  href="tel:+919451302544"
                   className="text-[#666666] font-normal text-base hover:text-[#161616]"
                 >
-                  +8801842844768
+                  +91 94513 02544
+                </a><br />
+                <a 
+                  href="tel:+919399892395"
+                  className="text-[#666666] font-normal text-base hover:text-[#161616]"
+                >
+                  +91 93998 92395
                 </a>
               </div>
             </div>
@@ -138,7 +190,7 @@ function ContactUs() {
             {activeTab === 'call' && (
               <div className="bg-white rounded-lg overflow-hidden border border-[#E5E5E5] min-h-[700px]">
                 <InlineWidget 
-                  url="https://calendly.com/your-username/30min"
+                  url="https://calendly.com/thechubsmedia/30min"
                   styles={{
                     height: '700px',
                     width: '100%'
@@ -150,7 +202,21 @@ function ContactUs() {
             {/* Message Form */}
             {activeTab === 'message' && (
               <div className="bg-white rounded-lg border border-[#E5E5E5] p-8">
-                <form className="space-y-6">
+                <form ref={formRef} onSubmit={handleSubmit} className="space-y-6">
+                  {/* Success Message */}
+                  {submitStatus === 'success' && (
+                    <div className="bg-green-50 border border-green-200 text-green-800 px-4 py-3 rounded-lg">
+                      ✓ Message sent successfully! We'll get back to you soon.
+                    </div>
+                  )}
+                  
+                  {/* Error Message */}
+                  {submitStatus === 'error' && (
+                    <div className="bg-red-50 border border-red-200 text-red-800 px-4 py-3 rounded-lg">
+                      ✗ Failed to send message. Please try again or email us directly.
+                    </div>
+                  )}
+
                   <div>
                     <label htmlFor="name" className="block text-[#161616] font-medium text-sm mb-2">
                       Name
@@ -158,6 +224,10 @@ function ContactUs() {
                     <input
                       type="text"
                       id="name"
+                      name="name"
+                      value={formData.name}
+                      onChange={handleInputChange}
+                      required
                       className="w-full px-4 py-3 border border-[#E5E5E5] rounded-lg focus:outline-none focus:border-blue-600"
                       placeholder="Your name"
                     />
@@ -169,6 +239,10 @@ function ContactUs() {
                     <input
                       type="email"
                       id="email"
+                      name="email"
+                      value={formData.email}
+                      onChange={handleInputChange}
+                      required
                       className="w-full px-4 py-3 border border-[#E5E5E5] rounded-lg focus:outline-none focus:border-blue-600"
                       placeholder="your@email.com"
                     />
@@ -179,16 +253,21 @@ function ContactUs() {
                     </label>
                     <textarea
                       id="message"
+                      name="message"
                       rows="6"
+                      value={formData.message}
+                      onChange={handleInputChange}
+                      required
                       className="w-full px-4 py-3 border border-[#E5E5E5] rounded-lg focus:outline-none focus:border-blue-600 resize-none"
                       placeholder="Your message..."
                     ></textarea>
                   </div>
                   <button
                     type="submit"
-                    className="w-full bg-blue-600 text-white font-medium text-base px-8 py-4 rounded-full hover:bg-blue-700 transition-colors duration-300"
+                    disabled={isSubmitting}
+                    className="w-full bg-blue-600 text-white font-medium text-base px-8 py-4 rounded-full hover:bg-blue-700 transition-colors duration-300 disabled:bg-gray-400 disabled:cursor-not-allowed"
                   >
-                    Send Message
+                    {isSubmitting ? 'Sending...' : 'Send Message'}
                   </button>
                 </form>
               </div>

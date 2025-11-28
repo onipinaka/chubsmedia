@@ -42,7 +42,7 @@ function Hero() {
   const words = headingText.split(' ')
 
   return (
-    <div className="w-full bg-white pt-4 sm:pt-6 lg:pt-8 xl:pt-10 pb-12 sm:pb-16 lg:pb-24 xl:pb-32 relative overflow-hidden">
+    <div className="w-full bg-white pt-4 sm:pt-6 lg:pt-8 xl:pt-10 pb-8 sm:pb-10 lg:pb-12 relative overflow-hidden">
       {/* Dotted Background Pattern */}
       <div 
         className="absolute inset-0 opacity-40"

@@ -4,7 +4,7 @@ import logo from '/chubslogo.svg'
 
 function AboutUs() {
   return (
-    <section className="py-20 lg:py-32 bg-white">
+    <section className="pt-8 sm:pt-10 lg:pt-12 pb-20 lg:pb-32 bg-white">
       <div className="max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-16 xl:px-20">
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-20">
           {/* Left Side - Title */}
