@@ -76,7 +76,7 @@ export const servicesData = [
     description:
       "Great design isn’t just about looks—it’s about experience. We create intuitive interfaces and stunning visuals that build trust and keep your users engaged.",
     slug: "graphic-design-uiux",
-    pricing: "3999",
+    pricing: "499",
     features: [
       "UI Wireframes & Prototyping",
       "Branding: Logos, Colors, Typography",
@@ -106,7 +106,7 @@ export const servicesData = [
     description:
       "We manage your social presence end-to-end. From content creation to video editing, we deliver posts, reels, and strategies that keep your brand relevant and engaging.",
     slug: "social-media-management",
-    pricing: "4999",
+    pricing: "2999",
     features: [
       "Social Media Strategy & Management",
       "High-Impact Monthly Content Calendars",
@@ -136,7 +136,7 @@ export const servicesData = [
     description:
       "High-quality video edits for brands, creators, and businesses. We produce engaging reels, explainers, ads, and storytelling videos that convert attention into impact.",
     slug: "video-editing",
-    pricing: "2999",
+    pricing: "499",
     features: [
       "Reels & Short-Form Videos",
       "Corporate Explainers",
@@ -166,7 +166,7 @@ export const servicesData = [
     description:
       "We design and run targeted ad campaigns that convert. Data-driven strategies help you reach the right audience and maximize ROI across all platforms.",
     slug: "marketing-and-ads",
-    pricing: "5999",
+    pricing: "300",
     features: [
       "Campaign Strategy (Meta, Google)",
       "High-Converting Landing Pages",
@@ -196,7 +196,7 @@ export const servicesData = [
     description:
       "Work smarter, not harder. We build automation systems, calling agents lead funnels that save you time, reduce your expenses and keep your sales pipeline active 24/7.",
     slug: "automation-systems",
-    pricing: "7999",
+    pricing: "999",
     features: [
       "Micro-task Automation",
       "WhatsApp, Email & RCS Automation",
@@ -226,7 +226,7 @@ export const servicesData = [
     description:
       "We build powerful lead-gen systems that drive real, qualified customers to your business—consistently and predictably.",
     slug: "lead-generation",
-    pricing: "3999",
+    pricing: "1999",
     features: [
       "High-Intent Lead Funnels",
       "Landing Pages & Capture Systems",

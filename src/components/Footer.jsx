@@ -26,7 +26,7 @@ const Footer = () => {
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-8">
-              <div>
+              {/* <div>
                 <h4 className="text-base lg:text-base font-satoshi-medium text-white mb-3">Job Application</h4>
                 <a 
                   href="mailto:connect@chubsmedia.tech" 
@@ -34,7 +34,7 @@ const Footer = () => {
                 >
                   connect@chubsmedia.tech
                 </a>
-              </div>
+              </div> */}
 
               <div>
                 <h4 className="text-base font-satoshi-medium lg:text-base text-white mb-3">Office Address</h4>
@@ -93,7 +93,7 @@ const Footer = () => {
 
         {/* Bottom Section */}
         <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
-          <div className="text-2xl lg:text-3xl font-bold text-white"><img src="/chubslogo.svg" className='w-[200px]' alt="" /></div>
+          <div className="text-2xl lg:text-3xl font-bold text-white"><img src="/chubslogowhite.svg" className='w-[200px]' alt="" /></div>
           <p className="text-sm lg:text-base text-white">
             © 2025 Chubs Media All Right Reserved
           </p>
