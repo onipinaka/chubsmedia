@@ -18,10 +18,10 @@ const Footer = () => {
             <div>
               <h3 className="text-base font-satoshi-regular lg:text-base text-white mb-4">Let's Talk</h3>
               <a 
-                href="mailto:hello@pixend.com" 
+                href="mailto:connect@chubsmedia.tech" 
                 className="text-[26px] lg:text-[40px] font-normal text-white hover:opacity-80 transition-opacity inline-block font-satoshi-medium"
               >
-                contact@chubsmedia.in
+                connect@chubsmedia.tech
               </a>
             </div>
 
@@ -29,10 +29,10 @@ const Footer = () => {
               <div>
                 <h4 className="text-base lg:text-base font-satoshi-medium text-white mb-3">Job Application</h4>
                 <a 
-                  href="mailto:apply@pixend.com" 
+                  href="mailto:connect@chubsmedia.tech" 
                   className="text-base lg:text-base text-white hover:opacity-80 transition-opacity font-satoshi-regular"
                 >
-                  career@chubsmedia.in
+                  connect@chubsmedia.tech
                 </a>
               </div>
 

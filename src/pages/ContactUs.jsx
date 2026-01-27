@@ -77,10 +77,10 @@ function ContactUs() {
                   Contact Me
                 </h3>
                 <a 
-                  href="mailto:contact@chubsmedia.in"
+                  href="mailto:connect@chubsmedia.tech"
                   className="text-blue-600 font-normal text-base hover:underline"
                 >
-                  contact@chubsmedia.in
+                  connect@chubsmedia.tech
                 </a>
               </div>
 

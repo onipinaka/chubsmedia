@@ -461,7 +461,7 @@
   },
   {
     "tag": "p",
-    "text": "apply@pixend.com",
+    "text": "connect@chubsmedia.tech",
     "fontSize": "16px",
     "fontWeight": "400",
     "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
@@ -961,7 +961,7 @@
   },
   {
     "tag": "a",
-    "text": "hello@pixend.com",
+    "text": "connect@chubsmedia.tech",
     "fontSize": "40px",
     "fontWeight": "500",
     "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
@@ -981,7 +981,7 @@
   },
   {
     "tag": "a",
-    "text": "pixend",
+    "text": "Chubs Media",
     "fontSize": "16px",
     "fontWeight": "400",
     "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
@@ -1121,7 +1121,7 @@
   },
   {
     "tag": "h3",
-    "text": "hello@pixend.com",
+    "text": "connect@chubsmedia.tech",
     "fontSize": "40px",
     "fontWeight": "500",
     "fontFamily": "Satoshi, \"Satoshi Placeholder\", sans-serif",
