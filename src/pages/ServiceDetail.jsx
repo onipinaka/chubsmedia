@@ -150,7 +150,7 @@ const ServiceDetail = () => {
               Let's discuss how we can help you achieve your goals with our {service.title.toLowerCase()} services.
             </p>
             <Link
-              to="/contact-us"
+              to="/contact"
               className="inline-flex items-center gap-2 bg-[#3B82F6] text-white px-8 py-4 rounded-full font-satoshi-medium text-[16px] leading-[25.6px] hover:bg-[#2563EB] transition-all duration-300"
             >
               Get In Touch
