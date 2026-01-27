@@ -11,10 +11,12 @@ import Blog from './pages/Blog'
 import ContactUs from './pages/ContactUs'
 import WorkDetail from './pages/WorkDetail'
 import ServiceDetail from './pages/ServiceDetail'
+import ScrollToTop from './components/ScrollToTop'
 
 function App() {
   return (
     <Router>
+      <ScrollToTop />
       <div className="min-h-screen flex flex-col">
         <Navbar />
         <main className="flex-1">
