@@ -1,5 +1,6 @@
 {
   "rewrites": [
+    { "source": "/services/ai-automation", "destination": "/services/ai-automation/index.html" },
     { "source": "/(.*)", "destination": "/index.html" }
   ]
 }
