@@ -12,6 +12,7 @@ function Navbar() {
     { name: 'About', path: '/about' },
     { name: 'Services', path: '/services' },
     { name: 'Pricing', path: '/pricing' },
+    { name: 'Automation', path: '/services/ai-automation' },
   ]
 
   return (

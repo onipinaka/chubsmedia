@@ -2,10 +2,8 @@ import React from 'react'
 
 const Footer = () => {
   const socialLinks = [
-    { name: 'Twitter', url: '#' },
-    { name: 'LinkedIn', url: '#' },
-    { name: 'Instagram', url: '#' },
-    { name: 'Facebook', url: '#' },
+    { name: 'LinkedIn', url: 'https://in.linkedin.com/company/chubs-media' },
+    { name: 'Instagram', url: 'https://www.instagram.com/chubsmedia/' },
   ];
 
   return (
@@ -62,6 +60,7 @@ const Footer = () => {
                 <a
                   key={social.name}
                   href={social.url}
+                  target='_blank'
                   className="flex items-center gap-2 group text-base lg:text-base"
                 >
                   <span className="text-white group-hover:opacity-80 transition-opacity font-satoshi-medium">

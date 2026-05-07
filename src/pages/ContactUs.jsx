@@ -1,6 +1,6 @@
-import React, { useState, useRef } from 'react'
+import React, { useState, useEffect } from 'react'
 import { InlineWidget } from 'react-calendly'
-import emailjs from '@emailjs/browser'
+import { useForm, ValidationError } from '@formspree/react'
 
 function ContactUs() {
   const [activeTab, setActiveTab] = useState('call') // 'call' or 'message'
@@ -9,9 +9,9 @@ function ContactUs() {
     email: '',
     message: ''
   })
-  const [isSubmitting, setIsSubmitting] = useState(false)
+  
+  const [state, handleSubmit] = useForm('xvzlbqqe')
   const [submitStatus, setSubmitStatus] = useState(null) // 'success' or 'error'
-  const formRef = useRef()
 
   const handleInputChange = (e) => {
     const { name, value } = e.target
@@ -21,34 +21,18 @@ function ContactUs() {
     }))
   }
 
-  const handleSubmit = async (e) => {
-    e.preventDefault()
-    setIsSubmitting(true)
-    setSubmitStatus(null)
-
-    try {
-      await emailjs.sendForm(
-        import.meta.env.VITE_EMAILJS_SERVICE_ID,
-        import.meta.env.VITE_EMAILJS_TEMPLATE_ID,
-        formRef.current,
-        import.meta.env.VITE_EMAILJS_PUBLIC_KEY
-      )
-      
+  useEffect(() => {
+    if (state.succeeded) {
       setSubmitStatus('success')
       setFormData({ name: '', email: '', message: '' })
-      
-      // Clear success message after 5 seconds
-      setTimeout(() => setSubmitStatus(null), 5000)
-    } catch (error) {
-      console.error('EmailJS Error:', error)
+      const timer = setTimeout(() => setSubmitStatus(null), 5000)
+      return () => clearTimeout(timer)
+    } else if (state.errors && state.errors.length > 0) {
       setSubmitStatus('error')
-      
-      // Clear error message after 5 seconds
-      setTimeout(() => setSubmitStatus(null), 5000)
-    } finally {
-      setIsSubmitting(false)
+      const timer = setTimeout(() => setSubmitStatus(null), 5000)
+      return () => clearTimeout(timer)
     }
-  }
+  }, [state.succeeded, state.errors])
 
   return (
     <div className="w-full bg-white py-12 sm:py-16 lg:py-24">
@@ -202,7 +186,7 @@ function ContactUs() {
             {/* Message Form */}
             {activeTab === 'message' && (
               <div className="bg-white rounded-lg border border-[#E5E5E5] p-8">
-                <form ref={formRef} onSubmit={handleSubmit} className="space-y-6">
+                <form onSubmit={handleSubmit} className="space-y-6">
                   {/* Success Message */}
                   {submitStatus === 'success' && (
                     <div className="bg-green-50 border border-green-200 text-green-800 px-4 py-3 rounded-lg">
@@ -264,10 +248,10 @@ function ContactUs() {
                   </div>
                   <button
                     type="submit"
-                    disabled={isSubmitting}
+                    disabled={state.submitting}
                     className="w-full bg-blue-600 text-white font-medium text-base px-8 py-4 rounded-full hover:bg-blue-700 transition-colors duration-300 disabled:bg-gray-400 disabled:cursor-not-allowed"
                   >
-                    {isSubmitting ? 'Sending...' : 'Send Message'}
+                    {state.submitting ? 'Sending...' : 'Send Message'}
                   </button>
                 </form>
               </div>
