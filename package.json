@@ -14,6 +14,10 @@
     "source": "dist",
     "include": [
       "/services/ai-automation"
+    ],
+    "puppeteerArgs": [
+      "--no-sandbox",
+      "--disable-setuid-sandbox"
     ]
   },
   "dependencies": {
