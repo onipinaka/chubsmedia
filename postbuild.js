@@ -10,7 +10,7 @@ const customTags = `
   <title>AI Automation Services | Chubs Media</title>
   <meta property="og:title" content="AI Automation Services | Chubs Media" />
   <meta property="og:description" content="Automate your DMs, save time, and close more leads with our custom AI solutions." />
-  <meta property="og:image" content="https://chubsmedia.tech/ai-automation-og.png" />
+  <meta property="og:image" content="https://chubsmedia.tech/image.png" />
   <meta name="twitter:card" content="summary_large_image" />
 `;
 
