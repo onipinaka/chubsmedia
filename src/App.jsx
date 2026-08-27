@@ -15,6 +15,7 @@ import ServiceDetail from './pages/ServiceDetail'
 import AIAutomation from './pages/AIAutomation'
 import ScrollToTop from './components/ScrollToTop'
 import Privacy from './pages/Privacy'
+import Terms from './pages/Terms'
 
 function App() {
   return (
@@ -35,6 +36,7 @@ function App() {
               <Route path="/blog" element={<Blog />} />
               <Route path="/contact" element={<ContactUs />} />
               <Route path="/privacy-policy" element={<Privacy />} />
+              <Route path="/terms" element={<Terms />} />
               <Route path="/services/ai-automation" element={<AIAutomation />} />
             </Routes>
           </main>
