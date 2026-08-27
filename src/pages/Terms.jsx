@@ -6,11 +6,11 @@ import React from "react";
 ------------------------------------------------------------------ */
 const COMPANY = {
   effectiveDate: "27 August 2026", // e.g. "1 September 2026"
-  registeredAddress: "", // full registered address, one line
-  legalEmail: "", // e.g. "legal@chubsmedia.com"
-  jurisdictionCity: "", // e.g. "Mumbai"
-  jurisdictionState: "", // e.g. "Maharashtra"
-  privacyUrl: "https://chubsmedia.com/privacy",
+  udyamNumber: "UDYAM-MP-20-0108326", // e.g. "UDYAM-XX-00-0000000"
+  registeredAddress: "Vaishnavi puram, D D Nagar 62 62 GWALIOR VAISHNAVI PURAM GWALIOR, MADHYA PRADESH 474005 India", // full registered address, one line
+  privacyEmail: "thechubsmedia@gmail.com", // e.g. "privacy@chubsmedia.com"
+  grievanceOfficerName: "Vivek Sharma", // a named person, required by the DPDP Act
+  grievanceEmail: "thechubsmedia@gmail.com", // e.g. "grievance@chubsmedia.com"
 };
 
 function Fill({ value, name }) {
